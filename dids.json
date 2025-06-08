@@ -1,0 +1,16 @@
+{
+    "issuers": {
+      "nidIssuer": "did:example:nidIssuer",
+      "passportIssuer": "did:example:passportIssuer",
+      "drivingLicenseIssuer": "did:example:drivingLicenseIssuer"
+    },
+    "holders": {
+      "holder1": "did:example:holder123",
+      "holder2": "did:example:holder456"
+    },
+    "verifiers": {
+      "verifier1": "did:example:university123",
+      "verifier2": "did:example:dmv123"
+    }
+  }
+  

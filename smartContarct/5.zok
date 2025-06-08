@@ -1,0 +1,19 @@
+import "hashes/sha256/512bit" as sha256;
+
+const u32 MAX_CLAIMS = 3;
+
+def main(
+    private u32[MAX_CLAIMS][16] claims,
+    u32[MAX_CLAIMS][8] expected_hashes
+) -> bool {
+    for u32 i in 0..MAX_CLAIMS {
+        u32[8] left = claims[i][0..8];
+        u32[8] right = claims[i][8..16];
+        u32[8] computed_hash = sha256(left, right);
+
+        for u32 j in 0..8 {
+            assert(computed_hash[j] == expected_hashes[i][j]);
+        }
+    }
+    return true;
+}

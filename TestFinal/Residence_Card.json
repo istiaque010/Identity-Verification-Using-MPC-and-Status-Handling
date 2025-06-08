@@ -1,0 +1,88 @@
+{
+  "credentialType": "Residence_Card",
+  "issuerDID": "did:ethr:0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+  "holderDID": "did:ethr:0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0",
+  "verifierDID": "did:ethr:0x3f5CE5FBFe3E9af3971dD833D26BA9b5C936f0bE",
+  "processedClaims": [
+    {
+      "key": "Full Name",
+      "value": "John Doe",
+      "hash": "6cea57c2fb6cbc2a40411135005760f241fffc3e5e67ab99882726431037f908",
+      "hashingTimeNs": "20800"
+    },
+    {
+      "key": "Date of Birth",
+      "value": "1990-01-01",
+      "hash": "c5cc05628d64ef65fa81b1fb6ed9cb4bd5dd8bf94d95a4fb9c1540b5adac00ed",
+      "hashingTimeNs": "23200"
+    },
+    {
+      "key": "NID Number",
+      "value": "NID123456789",
+      "hash": "55d0a512397972cc488206287a519a21ef91cd88969a8f52141cc0f0ecb40428",
+      "hashingTimeNs": "20300"
+    },
+    {
+      "key": "Gender",
+      "value": "Male",
+      "hash": "03f8c1273e3da99bb315fe7b71c8e45159c826e6d3f42eecd4612078248f73a1",
+      "hashingTimeNs": "19700"
+    },
+    {
+      "key": "Address",
+      "value": "123 Main St, Springfield, CountryX",
+      "hash": "cab6a443ad62b2fabbe60cc8d6efa6c84951423cf39072c1a47561c0e05886ea",
+      "hashingTimeNs": "20700"
+    },
+    {
+      "key": "Nationality",
+      "value": "CountryX",
+      "hash": "39c269180c5c2fc8a82bb445cf3f84b9b78cd0c7c0ae77a66202c47761bf2c1e",
+      "hashingTimeNs": "19600"
+    },
+    {
+      "key": "Place of Birth",
+      "value": "Springfield, CountryX",
+      "hash": "35093941cbc0a280c368681ffb30f05976852382d415f62f74c39855b7d06825",
+      "hashingTimeNs": "20100"
+    },
+    {
+      "key": "Issue Date",
+      "value": "2015-01-01",
+      "hash": "a61e240e41e499c0017b79181ca096578f5854aa43f2858c0aefab588ad151b8",
+      "hashingTimeNs": "19900"
+    },
+    {
+      "key": "Expiry Date",
+      "value": "2030-01-01",
+      "hash": "61d815f582433ca45b89d2e905f0d650c1c29e99f62247027c97f96132c7dbe4",
+      "hashingTimeNs": "28000"
+    },
+    {
+      "key": "Issuing Authority",
+      "value": "National Registration Office",
+      "hash": "a03b4cc44def7de4d4d79f42fae94dfe401e9683567bf6613dce6efd363d14b6",
+      "hashingTimeNs": "32100"
+    },
+    {
+      "key": "Photo",
+      "value": "ipfs://QmNidPhotoExampleHash",
+      "hash": "3842e1e50e9309a65aadf1bdf7cbfb374dbdf5fa9dde17ec4231f456a6232c19",
+      "hashingTimeNs": "22500"
+    },
+    {
+      "key": "Signature",
+      "value": "ipfs://QmNidSignatureExampleHash",
+      "hash": "02f766de5e6a2ad58c81806156f21bf89753aca2ebee89d067788ecfe98735a5",
+      "hashingTimeNs": "20900"
+    }
+  ],
+  "averageHashingTimeMs": "0.0223",
+  "averageMemoryUsageBytes": "232.00",
+  "averageClaimSizeBytes": "17.08",
+  "averageRootHashingTimeMs": "0.0140",
+  "rootSalt": "314d91b65b498d453ae88784623489fcaef9e1bac36fd40f7e2bcbdfb4e37995",
+  "preRoot": "08d44410052055d0d5220a24020aa7247192b6f3f9b43815e5626c123c7f8d49",
+  "rootHash": "546444071fe506bc07018a4e1d6922e9f6c4853b31bcf3a2bdeec366f8e89ec8",
+  "vcId": "737d9dbd1d02112b5423c5f668b11b336ed17e11eb694ebfe50cd8040689c97a"
+}

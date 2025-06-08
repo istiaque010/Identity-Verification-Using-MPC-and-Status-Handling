@@ -1,0 +1,174 @@
+✅ Output successfully written to Residence_Card.json
+
+--- Results for credential type: Passport ---
+Processed Claims (from last iteration):
+[
+  {
+    "key": "Full Name",
+    "value": "John Doe",
+    "hash": "6cea57c2fb6cbc2a40411135005760f241fffc3e5e67ab99882726431037f908",
+    "hashingTimeNs": "19400"
+  },
+  {
+    "key": "Passport Number",
+    "value": "P987654321",
+    "hash": "dfa019a39ffc21ab7ec22e320cac9f16856661594750e15c8c0253865b04aa21",
+    "hashingTimeNs": "20700"
+  },
+  {
+    "key": "Nationality",
+    "value": "CountryX",
+    "hash": "39c269180c5c2fc8a82bb445cf3f84b9b78cd0c7c0ae77a66202c47761bf2c1e",
+    "hashingTimeNs": "22900"
+  },
+  {
+    "key": "Date of Birth",
+    "value": "1990-01-01",
+    "hash": "c5cc05628d64ef65fa81b1fb6ed9cb4bd5dd8bf94d95a4fb9c1540b5adac00ed",
+    "hashingTimeNs": "21700"
+  },
+  {
+    "key": "Place of Birth",
+    "value": "Springfield, CountryX",
+    "hash": "35093941cbc0a280c368681ffb30f05976852382d415f62f74c39855b7d06825",
+    "hashingTimeNs": "25800"
+  },
+  {
+    "key": "Passport Issue Date",
+    "value": "2020-01-01",
+    "hash": "5ac7de6274ec51444b03f8d2038e595d999924e9b2db5113c02641e70febbf98",
+    "hashingTimeNs": "22700"
+  },
+  {
+    "key": "Passport Expiry Date",
+    "value": "2030-01-01",
+    "hash": "61d815f582433ca45b89d2e905f0d650c1c29e99f62247027c97f96132c7dbe4",
+    "hashingTimeNs": "20700"
+  },
+  {
+    "key": "Issuing Authority",
+    "value": "Ministry of Foreign Affairs",
+    "hash": "9279356683d2610b37e61a4689b7cade7bc296d2b7d9b5e7f5befb4105e326f0",
+    "hashingTimeNs": "20200"
+  },
+  {
+    "key": "Passport Type",
+    "value": "Ordinary",
+    "hash": "f46f36f72dc634e236787d444cf10ee3c22280413e0cdeda3d3a8d7d1714f7fd",
+    "hashingTimeNs": "20000"
+  },
+  {
+    "key": "Machine Readable Zone",
+    "value": "P<CXDOE<<JOHN<<<<<<<<<<<<<<<<<<<<<<<<<<<\n9876543210CXD9001017M3001012<<<<<<<<<<<<<<08",
+    "hash": "3d4cf293cf6c0058b9fdb3d051d7b9e2aa21718ffdbfcda2f13ec7b5aecd2d45",
+    "hashingTimeNs": "20000"
+  },
+  {
+    "key": "Photo",
+    "value": "ipfs://QmPassportPhotoExampleHash",
+    "hash": "a6bc8dd5acd7e6efe4cf7fd60b3268ae070106521be2d8a8351c6f5467727948",
+    "hashingTimeNs": "22400"
+  },
+  {
+    "key": "Signature",
+    "value": "ipfs://QmPassportSignatureExampleHash",
+    "hash": "0ee7ab837e992709c678202eb41cb4952f1e15a57a10e1863659d615b111a6e0",
+    "hashingTimeNs": "21200"
+  }
+]
+Average claim size (averaged over 5 runs): 22.25 bytes
+Average hashing time per claim (averaged over 5 runs): 0.0215 ms
+Average memory usage per claim (averaged over 5 runs): 85.33 bytes
+Average root hashing time (averaged over 5 runs): 0.0096 ms
+Root Salt (last run): 869fcd675beb734242fd50cd630b3ff1604b1336c5c42818e7d548085f97ca1b
+Pre Root (last run): dc93a5e41de873beb7cb7def143ca44a1bba5143e4b81257c93f337e332da173
+Root Hash (last run): 2948927498cf299d12085cf2833cda5a0f808fb53e34b43b5e7070490c110a07
+VC ID (last run): a476384a7154bb4c101b8c567438eaa2dba638d875185386e52c7edc0ac37e89
+✅ Output successfully written to Passport.json
+
+--- Results for credential type: Driving_License ---
+Processed Claims (from last iteration):
+[
+  {
+    "key": "Full Name",
+    "value": "John Doe",
+    "hash": "6cea57c2fb6cbc2a40411135005760f241fffc3e5e67ab99882726431037f908",
+    "hashingTimeNs": "17300"
+  },
+  {
+    "key": "Driving License Number",
+    "value": "DL12345678901",
+    "hash": "816feffdaea5f4c7d2f8f25129461e4a22bf266d20fdeef315fa2551b5cf86b5",
+    "hashingTimeNs": "19500"
+  },
+  {
+    "key": "License Issue Date",
+    "value": "2020-05-15",
+    "hash": "440246de6beefc012dde3d0fd3f133f2874f5c6e770c8b33d983a194cc52dc89",
+    "hashingTimeNs": "19400"
+  },
+  {
+    "key": "License Expiry Date",
+    "value": "2030-05-15",
+    "hash": "094f776b56096a2cbb72f6de27b1fd5adc5629604acb69ef35dca2c02953f38f",
+    "hashingTimeNs": "21800"
+  },
+  {
+    "key": "License Class",
+    "value": "Class A",
+    "hash": "956b512cb39f30d0f6dfd6b1d96bd15f403ac286732df44a85847b879fe7161c",
+    "hashingTimeNs": "19400"
+  },
+  {
+    "key": "Vehicle Classes",
+    "value": "Motorcycle, Car, Truck",
+    "hash": "89ce61b897e8ecef47835bfb35552ae788c04403d465522150fe1d0f86b249d7",
+    "hashingTimeNs": "20300"
+  },
+  {
+    "key": "Issuing Authority",
+    "value": "Department of Motor Vehicles",
+    "hash": "abc3865c7c7ea92d1d96382d158d7770528f4b91ac82331daaded7b2ec542d88",
+    "hashingTimeNs": "19900"
+  },
+  {
+    "key": "Address",
+    "value": "123 Main St, Springfield, CountryX",
+    "hash": "cab6a443ad62b2fabbe60cc8d6efa6c84951423cf39072c1a47561c0e05886ea",
+    "hashingTimeNs": "27500"
+  },
+  {
+    "key": "Restrictions",
+    "value": "Corrective lenses required",
+    "hash": "d3097722f1b009996ac7df4d24c5b2432575209eb230af564a5e061d4433a4d2",
+    "hashingTimeNs": "25400"
+  },
+  {
+    "key": "Status",
+    "value": "Active",
+    "hash": "92340695899bd2d86223e4a007620e0d6502fc0e08809773634c7e0743764a9c",
+    "hashingTimeNs": "22000"
+  },
+  {
+    "key": "Photo",
+    "value": "ipfs://QmDrivingLicensePhotoExampleHash",
+    "hash": "eb433ac89b2777c544eee5a611b67074e9491e02108793b9127a018ecef416bc",
+    "hashingTimeNs": "21900"
+  },
+  {
+    "key": "Signature",
+    "value": "ipfs://QmDrivingLicenseSignatureExampleHash",
+    "hash": "eeae1e38c468afb8245eed716d94c1f72e73a6bfe29c25c902e4d446a397240e",
+    "hashingTimeNs": "23100"
+  }
+]
+Average claim size (averaged over 5 runs): 20.50 bytes
+Average hashing time per claim (averaged over 5 runs): 0.0215 ms
+Average memory usage per claim (averaged over 5 runs): 85.33 bytes
+Average root hashing time (averaged over 5 runs): 0.0066 ms
+Root Salt (last run): 936ac61de9165233c5313339ad65801903f15b0ae8fb55237c74096a3a6b6547
+Pre Root (last run): 0cc4b7b798f4cbaa607934a7db651ccc3df0e98c2591351ccbc46775394ff0b2
+Root Hash (last run): f3d451a0fea97b5ea4c169cbf76be3f1023931b9e43fb03d9f17f2a6cd079e88
+VC ID (last run): 9852aa01599b47f8208676cfc8c78e74eb06b5b7bd0a8ee392e73ad4c7b11a2b
+✅ Output successfully written to Driving_License.json
+PS F:\Projects\project_Linux_Last Selective Discolure\TestFinal>

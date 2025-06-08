@@ -1,0 +1,46 @@
+{
+  "Residence_Card": [
+    { "key": "Full Name", "value": "John Doe" },
+    { "key": "Date of Birth", "value": "1990-01-01" },
+    { "key": "NID Number", "value": "NID123456789" },
+    { "key": "Gender", "value": "Male" },
+    { "key": "Address", "value": "123 Main St, Springfield, CountryX" },
+    { "key": "Nationality", "value": "CountryX" },
+    { "key": "Place of Birth", "value": "Springfield, CountryX" },
+    { "key": "Issue Date", "value": "2015-01-01" },
+    { "key": "Expiry Date", "value": "2030-01-01" },
+    { "key": "Issuing Authority", "value": "National Registration Office" },
+    { "key": "Photo", "value": "ipfs://QmNidPhotoExampleHash" },
+    { "key": "Signature", "value": "ipfs://QmNidSignatureExampleHash" }
+  ],
+
+  "Passport": [
+    { "key": "Full Name", "value": "John Doe" },
+    { "key": "Passport Number", "value": "P987654321" },
+    { "key": "Nationality", "value": "CountryX" },
+    { "key": "Date of Birth", "value": "1990-01-01" },
+    { "key": "Place of Birth", "value": "Springfield, CountryX" },
+    { "key": "Passport Issue Date", "value": "2020-01-01" },
+    { "key": "Passport Expiry Date", "value": "2030-01-01" },
+    { "key": "Issuing Authority", "value": "Ministry of Foreign Affairs" },
+    { "key": "Passport Type", "value": "Ordinary" },
+    { "key": "Machine Readable Zone", "value": "P<CXDOE<<JOHN<<<<<<<<<<<<<<<<<<<<<<<<<<<\n9876543210CXD9001017M3001012<<<<<<<<<<<<<<08" },
+    { "key": "Photo", "value": "ipfs://QmPassportPhotoExampleHash" },
+    { "key": "Signature", "value": "ipfs://QmPassportSignatureExampleHash" }
+  ],
+
+  "Driving_License": [
+    { "key": "Full Name", "value": "John Doe" },
+    { "key": "Driving License Number", "value": "DL12345678901" },
+    { "key": "License Issue Date", "value": "2020-05-15" },
+    { "key": "License Expiry Date", "value": "2030-05-15" },
+    { "key": "License Class", "value": "Class A" },
+    { "key": "Vehicle Classes", "value": "Motorcycle, Car, Truck" },
+    { "key": "Issuing Authority", "value": "Department of Motor Vehicles" },
+    { "key": "Address", "value": "123 Main St, Springfield, CountryX" },
+    { "key": "Restrictions", "value": "Corrective lenses required" },
+    { "key": "Status", "value": "Active" },
+    { "key": "Photo", "value": "ipfs://QmDrivingLicensePhotoExampleHash" },
+    { "key": "Signature", "value": "ipfs://QmDrivingLicenseSignatureExampleHash" }
+  ]
+}

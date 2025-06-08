@@ -1,0 +1,26 @@
+{
+    "NID": [
+      { "key": "Full Name", "value": "John Doe" },
+      { "key": "Date of Birth", "value": "1990-01-01" },
+      { "key": "NID Number", "value": "NID123456789" },
+      { "key": "Gender", "value": "Male" },
+      { "key": "Address", "value": "123 Main St, City, Country" }
+    ],
+    "Passport": [
+      { "key": "Full Name", "value": "John Doe" },
+      { "key": "Passport Number", "value": "P123456789" },
+      { "key": "Nationality", "value": "CountryName" },
+      { "key": "Date of Birth", "value": "1990-01-01" },
+      { "key": "Passport Issue Date", "value": "2020-01-01" },
+      { "key": "Passport Expiry Date", "value": "2030-01-01" }
+    ],
+    "Driving_License": [
+      { "key": "Full Name", "value": "John Doe" },
+      { "key": "Driving License Number", "value": "DL987654321" },
+      { "key": "License Issue Date", "value": "2020-05-15" },
+      { "key": "License Expiry Date", "value": "2030-05-15" },
+      { "key": "License Class", "value": "Class A" },
+      { "key": "Issuing Authority", "value": "Department of Motor Vehicles" }
+    ]
+  }
+  

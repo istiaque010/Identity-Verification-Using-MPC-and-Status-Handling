@@ -1,0 +1,12 @@
+{
+  "vpSalt": "cf5a9be2e17daeff5ca9ee05ac4aedfa49147c5bafeaca73edbd686ef753b63e",
+  "vpRoot": "c1a5cf51f806e4ee63a7405cae8bb09596222a17f2dbeaab5c8eda6522c2eb45",
+  "vcRoots": [
+    "546444071fe506bc07018a4e1d6922e9f6c4853b31bcf3a2bdeec366f8e89ec8",
+    "13a2a43463a8b9f2b20b37f9c00081dff295bc2f69746ca1489470a7060a9fa3",
+    "dc7b9ba847d5ca7d6c5957b219184d3c4940c9a417b83b37626bb488383ad6b5"
+  ],
+  "issuerDID": "did:ethr:0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+  "holderDID": "did:ethr:0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0",
+  "verifierDID": "did:ethr:0x3f5CE5FBFe3E9af3971dD833D26BA9b5C936f0bE"
+}

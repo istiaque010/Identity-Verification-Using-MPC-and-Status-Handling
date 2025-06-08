@@ -1,0 +1,88 @@
+{
+  "credentialType": "Driving_License",
+  "issuerDID": "did:ethr:0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+  "holderDID": "did:ethr:0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0",
+  "verifierDID": "did:ethr:0x3f5CE5FBFe3E9af3971dD833D26BA9b5C936f0bE",
+  "processedClaims": [
+    {
+      "key": "Full Name",
+      "value": "John Doe",
+      "hash": "6cea57c2fb6cbc2a40411135005760f241fffc3e5e67ab99882726431037f908",
+      "hashingTimeNs": "18400"
+    },
+    {
+      "key": "Driving License Number",
+      "value": "DL12345678901",
+      "hash": "816feffdaea5f4c7d2f8f25129461e4a22bf266d20fdeef315fa2551b5cf86b5",
+      "hashingTimeNs": "20600"
+    },
+    {
+      "key": "License Issue Date",
+      "value": "2020-05-15",
+      "hash": "440246de6beefc012dde3d0fd3f133f2874f5c6e770c8b33d983a194cc52dc89",
+      "hashingTimeNs": "25200"
+    },
+    {
+      "key": "License Expiry Date",
+      "value": "2030-05-15",
+      "hash": "094f776b56096a2cbb72f6de27b1fd5adc5629604acb69ef35dca2c02953f38f",
+      "hashingTimeNs": "22900"
+    },
+    {
+      "key": "License Class",
+      "value": "Class A",
+      "hash": "956b512cb39f30d0f6dfd6b1d96bd15f403ac286732df44a85847b879fe7161c",
+      "hashingTimeNs": "21300"
+    },
+    {
+      "key": "Vehicle Classes",
+      "value": "Motorcycle, Car, Truck",
+      "hash": "89ce61b897e8ecef47835bfb35552ae788c04403d465522150fe1d0f86b249d7",
+      "hashingTimeNs": "20300"
+    },
+    {
+      "key": "Issuing Authority",
+      "value": "Department of Motor Vehicles",
+      "hash": "abc3865c7c7ea92d1d96382d158d7770528f4b91ac82331daaded7b2ec542d88",
+      "hashingTimeNs": "20300"
+    },
+    {
+      "key": "Address",
+      "value": "123 Main St, Springfield, CountryX",
+      "hash": "cab6a443ad62b2fabbe60cc8d6efa6c84951423cf39072c1a47561c0e05886ea",
+      "hashingTimeNs": "22600"
+    },
+    {
+      "key": "Restrictions",
+      "value": "Corrective lenses required",
+      "hash": "d3097722f1b009996ac7df4d24c5b2432575209eb230af564a5e061d4433a4d2",
+      "hashingTimeNs": "29700"
+    },
+    {
+      "key": "Status",
+      "value": "Active",
+      "hash": "92340695899bd2d86223e4a007620e0d6502fc0e08809773634c7e0743764a9c",
+      "hashingTimeNs": "25800"
+    },
+    {
+      "key": "Photo",
+      "value": "ipfs://QmDrivingLicensePhotoExampleHash",
+      "hash": "eb433ac89b2777c544eee5a611b67074e9491e02108793b9127a018ecef416bc",
+      "hashingTimeNs": "22900"
+    },
+    {
+      "key": "Signature",
+      "value": "ipfs://QmDrivingLicenseSignatureExampleHash",
+      "hash": "eeae1e38c468afb8245eed716d94c1f72e73a6bfe29c25c902e4d446a397240e",
+      "hashingTimeNs": "23700"
+    }
+  ],
+  "averageHashingTimeMs": "0.0228",
+  "averageMemoryUsageBytes": "85.33",
+  "averageClaimSizeBytes": "20.50",
+  "averageRootHashingTimeMs": "0.0059",
+  "rootSalt": "84df9bd0fc8cd94637232c15fd06d0e05b588f5e3dcbd935972b43a19e419597",
+  "preRoot": "0cc4b7b798f4cbaa607934a7db651ccc3df0e98c2591351ccbc46775394ff0b2",
+  "rootHash": "dc7b9ba847d5ca7d6c5957b219184d3c4940c9a417b83b37626bb488383ad6b5",
+  "vcId": "91c189f483de8d00cac8cd5470eba7dde529784b79a9f82f471348feff33fb13"
+}
