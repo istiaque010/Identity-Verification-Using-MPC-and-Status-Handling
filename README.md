@@ -21,7 +21,7 @@
 ![image](https://github.com/user-attachments/assets/5fb865c6-abdc-420c-8969-1866df0a0cd1)
 
 
-## reuseableVP Smart conract deployment: 
+## reuseableVP.sol Smart conract deployment: 
 ![image](https://github.com/user-attachments/assets/6d7c7906-c79c-41a8-a1d2-07ef3dae276d)
 
 
