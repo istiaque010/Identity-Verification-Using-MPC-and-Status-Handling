@@ -24,6 +24,13 @@
 ## reuseableVP.sol Smart conract deployment: 
 ![image](https://github.com/user-attachments/assets/6d7c7906-c79c-41a8-a1d2-07ef3dae276d)
 
+### Register VC:
+![image](https://github.com/user-attachments/assets/c7784676-e53f-4aa0-ab8f-6342e5a737bb)
+
+
+### Verify VC VC:
+
+![image](https://github.com/user-attachments/assets/91c48080-9664-459a-b8c8-b8392652dbce)
 
 
 ## Attack Vector:
