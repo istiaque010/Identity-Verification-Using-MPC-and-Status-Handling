@@ -33,6 +33,28 @@
 ![image](https://github.com/user-attachments/assets/91c48080-9664-459a-b8c8-b8392652dbce)
 
 
+Compile and Computation of zkSNARKs.zok:
+![image](https://github.com/user-attachments/assets/75971526-61ad-48f0-a9db-f663ce7a6375)
+
+Successful setup of zkSNARKs:
+![image](https://github.com/user-attachments/assets/8ead40f3-6f93-4534-98c9-729c33397778)
+
+Successfully generationg the proof:
+![image](https://github.com/user-attachments/assets/0db5cbf3-a716-4645-bf97-01b6257c3e8a)
+
+Verifier.sol is ready now for on-chain verification:
+![image](https://github.com/user-attachments/assets/63a9b83d-11f9-4d2b-a5a3-4f98cb305b38)
+
+Deployment of verifier.sol:
+![image](https://github.com/user-attachments/assets/1febec3b-49bf-416b-b4ca-79a7a9b3cafd)
+
+
+Successful verification of proof:
+![image](https://github.com/user-attachments/assets/605aa197-ea1b-4c65-b660-b35a10dd9959)
+
+
+
+
 ## Attack Vector:
 
 ![image](https://github.com/user-attachments/assets/173d9c3d-ac56-4190-8239-343daf1f0429)
