@@ -68,5 +68,10 @@ Successful verification of proof:
 
 ![image](https://github.com/user-attachments/assets/173d9c3d-ac56-4190-8239-343daf1f0429)
 
+## Evaluation:
+![image](https://github.com/user-attachments/assets/28ccfbbe-d0be-4d75-967c-bebaf8d30296)
+![image](https://github.com/user-attachments/assets/28ccfbbe-d0be-4d75-967c-bebaf8d30296)
+
+
 
 
