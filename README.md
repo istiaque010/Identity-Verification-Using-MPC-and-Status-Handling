@@ -3,7 +3,7 @@
 ## For the benchmark we have considered:
 
 We compared three different credential types with 12 claims each: VC1 (Residence Card), VC2 (Passport), and VC3 (Driving Licence).  Selectively, the VP is produced from these VCs.  We had four sets of claims ready.
-
+TestFinal/updated_claims.json 
 
 
 ## Off-Chain Preprocessing:
