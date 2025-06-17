@@ -70,7 +70,11 @@ Successful verification of proof:
 
 ## Evaluation:
 ![image](https://github.com/user-attachments/assets/28ccfbbe-d0be-4d75-967c-bebaf8d30296)
-![image](https://github.com/user-attachments/assets/28ccfbbe-d0be-4d75-967c-bebaf8d30296)
+
+
+![image](https://github.com/user-attachments/assets/d31727e7-1aea-4417-bd94-3450e606aacc)
+
+
 
 
 
