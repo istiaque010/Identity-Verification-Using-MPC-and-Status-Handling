@@ -4,7 +4,9 @@
 
 We compared three different credential types with 12 claims each: VC1 (Residence Card), VC2 (Passport), and VC3 (Driving Licence).  Selectively, the VP is produced from these VCs.  We had four sets of claims ready.
 
-[Verifiable Credentials](TestFinal/updated_claims.json )
+[Verifiable Credentials](TestFinal/updated_claims.json)
+
+After preprocessing:[VC1](TestFinal/Residence_Card.json) [VC2](TestFinal/Passport.json) [VC2](TestFinal/Driving_License.json)
 
 
 ## Off-Chain Preprocessing:
