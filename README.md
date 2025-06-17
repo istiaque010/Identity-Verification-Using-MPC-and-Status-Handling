@@ -1,5 +1,11 @@
 # Privacy-Preserving-Identification-Using-Hash-Tree-and-zk-SNARKs
 
+## For the benchmark we have considered:
+
+We compared three different credential types with 12 claims each: VC1 (Residence Card), VC2 (Passport), and VC3 (Driving Licence).  Selectively, the VP is produced from these VCs.  We had four sets of claims ready.
+
+
+
 ## Off-Chain Preprocessing:
 
 ![image](https://github.com/user-attachments/assets/938bd203-7610-4b4f-8946-b7720ce4ec0b)
