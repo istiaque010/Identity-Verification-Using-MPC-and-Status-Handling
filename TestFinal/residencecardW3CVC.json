@@ -1,0 +1,42 @@
+{
+    "@context": [
+      "https://www.w3.org/2018/credentials/v1"
+    ],
+    "id": "urn:uuid:737d9dbd1d02112b5423c5f668b11b336ed17e11eb694ebfe50cd8040689c97a",
+    "type": ["VerifiableCredential", "ResidenceCardCredential"],
+    "issuer": "did:ethr:0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+    "issuanceDate": "2025-06-22T00:00:00Z",
+    "credentialSubject": {
+      "id": "did:ethr:0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0",
+      "claims": {
+        "Full Name": "John Doe",
+        "Date of Birth": "1990-01-01",
+        "NID Number": "NID123456789",
+        "Gender": "Male",
+        "Address": "123 Main St, Springfield, CountryX",
+        "Nationality": "CountryX",
+        "Place of Birth": "Springfield, CountryX",
+        "Issue Date": "2015-01-01",
+        "Expiry Date": "2030-01-01",
+        "Issuing Authority": "National Registration Office",
+        "Photo": "ipfs://QmNidPhotoExampleHash",
+        "Signature": "ipfs://QmNidSignatureExampleHash"
+      }
+    },
+    "meta": {
+      "rootSalt": "314d91b65b498d453ae88784623489fcaef9e1bac36fd40f7e2bcbdfb4e37995",
+      "rootHash": "546444071fe506bc07018a4e1d6922e9f6c4853b31bcf3a2bdeec366f8e89ec8"
+    },
+    "credentialStatus": {
+      "id": "https://example.com/vc/status/737d9dbd1d02112b5423c5f668b11b336ed17e11eb694ebfe50cd8040689c97a",
+      "type": "RevocationList2020Status"
+    },
+    "proof": {
+      "type": "BbsBlsSignature2020",
+      "created": "2025-06-22T00:00:00Z",
+      "proofPurpose": "assertionMethod",
+      "verificationMethod": "did:ethr:0x742d35Cc6634C0532925a3b844Bc454e4438f44e#keys-1",
+      "proofValue": "ROOT_HASH:546444071fe506bc07018a4e1d6922e9f6c4853b31bcf3a2bdeec366f8e89ec8; PRE_ROOT:08d44410052055d0d5220a24020aa7247192b6f3f9b43815e5626c123c7f8d49; SALT:314d91b65b498d453ae88784623489fcaef9e1bac36fd40f7e2bcbdfb4e37995"
+    }
+  }
+  
