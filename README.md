@@ -24,45 +24,19 @@ After preprocessing: [VC1](TestFinal/Residence_Card.json) [VC2](TestFinal/Passpo
 
 ## RSA: VC1, VC2:
 
-
 ![image](https://github.com/user-attachments/assets/5a53a29c-1acc-44d6-957a-68edf89bc768)
 
 ## EdDSA: VC3, VP
 ![image](https://github.com/user-attachments/assets/5fb865c6-abdc-420c-8969-1866df0a0cd1)
 
 
-## reuseableVP.sol Smart conract deployment: 
-![image](https://github.com/user-attachments/assets/6d7c7906-c79c-41a8-a1d2-07ef3dae276d)
-
 ### Register VC:
 ![image](https://github.com/user-attachments/assets/c7784676-e53f-4aa0-ab8f-6342e5a737bb)
 
 
-### Verify VC VC:
+### Verify VC:
 
 ![image](https://github.com/user-attachments/assets/91c48080-9664-459a-b8c8-b8392652dbce)
-
-
-Compile and Computation of zkSNARKs.zok:
-![image](https://github.com/user-attachments/assets/75971526-61ad-48f0-a9db-f663ce7a6375)
-
-Successful setup of zkSNARKs:
-![image](https://github.com/user-attachments/assets/8ead40f3-6f93-4534-98c9-729c33397778)
-
-Successfully generationg the proof:
-![image](https://github.com/user-attachments/assets/0db5cbf3-a716-4645-bf97-01b6257c3e8a)
-
-Verifier.sol is ready now for on-chain verification:
-![image](https://github.com/user-attachments/assets/63a9b83d-11f9-4d2b-a5a3-4f98cb305b38)
-
-Deployment of verifier.sol:
-![image](https://github.com/user-attachments/assets/1febec3b-49bf-416b-b4ca-79a7a9b3cafd)
-
-
-Successful verification of proof:
-![image](https://github.com/user-attachments/assets/605aa197-ea1b-4c65-b660-b35a10dd9959)
-
-
 
 
 ## Attack Vector:
@@ -70,10 +44,14 @@ Successful verification of proof:
 ![image](https://github.com/user-attachments/assets/173d9c3d-ac56-4190-8239-343daf1f0429)
 
 ## Evaluation:
-![image](https://github.com/user-attachments/assets/28ccfbbe-d0be-4d75-967c-bebaf8d30296)
+<img width="958" height="440" alt="image" src="https://github.com/user-attachments/assets/1f0ccf8a-d42c-4a13-a5d1-cbd8d0ff6f1b" />
+
+<img width="1101" height="534" alt="image" src="https://github.com/user-attachments/assets/647da86c-3db0-4afc-9c3f-41fe248633e1" />
+
+<img width="1023" height="578" alt="image" src="https://github.com/user-attachments/assets/4bae94d7-3632-48ee-baab-e0a21ef5a8dc" />
 
 
-![image](https://github.com/user-attachments/assets/d31727e7-1aea-4417-bd94-3450e606aacc)
+
 
 
 
