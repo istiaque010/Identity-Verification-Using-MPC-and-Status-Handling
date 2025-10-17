@@ -34,11 +34,6 @@ After preprocessing: [VC1](TestFinal/Residence_Card.json) [VC2](TestFinal/Passpo
 ![image](https://github.com/user-attachments/assets/c7784676-e53f-4aa0-ab8f-6342e5a737bb)
 
 
-### Verify VC:
-
-![image](https://github.com/user-attachments/assets/91c48080-9664-459a-b8c8-b8392652dbce)
-
-
 ## Attack Vector:
 
 ![image](https://github.com/user-attachments/assets/173d9c3d-ac56-4190-8239-343daf1f0429)
